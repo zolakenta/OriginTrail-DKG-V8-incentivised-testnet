@@ -97,7 +97,7 @@
    ```
 8. Cek status node `(active/running atau sedang stop)`
    ```
-   Cek status node (active/running atau sedang stop)
+   systemctl status otnode
    ```
 9. Cek Dashboard \
    https://dkg-v8-incentivised-testnet.origintrail.io/ 
